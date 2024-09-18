@@ -1,34 +1,41 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-/.vs
+# Visual Studio temporary files
 .vs/
+*.vscode/
+*.suo
+*.user
+*.userprefs
 
-# Precompiled Headers
-*.gch
-*.pch
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Rr]elwithdebinfo/
+[Oo]ut/
+x64/
+x86/
+arm/
+arm64/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Visual Studio Installer
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+*.vsix
 
-# Fortran module files
-*.mod
-*.smod
+# Backup files
+*.bak
+*.swp
+*.tmp
+*.log
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+# Other files
+*.pdb
+*.obj
 *.exe
-*.out
-*.app
+*.dll
+*.idb
+*.ilk
+*.ipch/
+*.pch
+*.sdf
+*.sln.ide
