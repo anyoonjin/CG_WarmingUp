@@ -77,4 +77,5 @@ void setting_card() {
 void matching_in_pairs(Point point1, Point point2) {
 	//a=97 A=65
 	//if(point1.x)
+	int c;
 }
