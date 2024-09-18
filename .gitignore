@@ -1,5 +1,6 @@
 # Visual Studio temporary files
 .vs/
+/.vs
 *.vscode/
 *.suo
 *.user
@@ -11,6 +12,7 @@
 [Rr]elwithdebinfo/
 [Oo]ut/
 x64/
+/x64
 x86/
 arm/
 arm64/
